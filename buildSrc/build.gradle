@@ -10,3 +10,4 @@ dependencies {
     implementation 'io.freefair.gradle:lombok-plugin:6.0.0-m2'
     implementation 'gradle.plugin.com.github.spotbugs.snom:spotbugs-gradle-plugin:4.7.1'
 }
+
