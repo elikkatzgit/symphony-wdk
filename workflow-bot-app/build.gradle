@@ -25,7 +25,7 @@ dependencies {
     implementation 'org.camunda.spin:camunda-spin-core'
     implementation 'org.camunda.spin:camunda-spin-dataformat-json-jackson'
 
-    implementation 'org.codehaus.groovy:groovy-all:3.0.8'
+    implementation 'org.codehaus.groovy:groovy-all:3.0.9'
 
     implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.12.4'
     implementation 'com.github.java-json-tools:json-schema-validator:2.2.14'
